@@ -4,4 +4,4 @@
 
  Clone from [Traversy Media](https://www.youtube.com/watch?v=HRmdj-HpJyE) 
 
- ![Post](/images/Posts?raw=true "Optional Title")
+ ![Post](https://github.com/jihan212/react-adminPanel/blob/main/images/Posts.png "Optional Title")
